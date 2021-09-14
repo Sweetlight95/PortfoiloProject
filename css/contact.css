@@ -1,0 +1,75 @@
+body{background-image: url(../img/formimg.jpg);
+     background-repeat: no-repeat; 
+     background-size: cover;
+}
+.form{
+    padding: 1rem 2rem 4rem 5rem;
+    text-align: center;
+    margin-top: 6%;
+} 
+#fname { border-radius: 0.5rem;
+    height: 2.5rem;
+    border: none;
+    text-align: center;
+    color: rgb(41, 61, 31);
+    font-size: 1rem;
+    background-color:rgb(116, 216, 107);
+    font-style: italic;
+}
+#lname {border-radius: 0.5rem;
+    height: 2.5rem;
+    border: none;
+    text-align: center;
+    font-size: 1rem;
+    background-color:rgb(116, 216, 107);
+    font-style: italic;
+}
+#email {
+    border-radius: 0.5rem;
+    height: 2.5rem;
+    border: none;
+    text-align: center;
+    font-size: 1rem;
+    font-style: italic;
+    background-color:rgb(116, 216, 107);
+}
+#address {
+    border-radius: 0.5rem;
+    height: 2.5rem;
+    border: none;
+    text-align: center;
+    color: rgb(22, 16, 16);
+    font-size: 1rem;
+    background-color:rgb(116, 216, 107);
+    font-style: italic;
+}
+#message {
+    border-radius: 0.5rem;
+    height: 5rem;
+    border: none;
+    text-align: center;
+    font-size: 1rem;
+    background-color:rgb(116, 216, 107);
+    font-style: italic;
+}
+#send{
+    border-radius: 0.5rem;
+    height: 2.5rem;
+    width: 10%;
+    border: none;
+    text-align: center;
+    font-size: 1rem;
+    background-color:rgb(116, 216, 107);
+}
+label{color:rgba(31, 54, 187, 0.658);
+    font-weight: bold;
+    font-size:1.5rem;
+}
+/* #eye {
+    position:relative;
+    right: 2.5rem;
+    top:0.3rem;
+} */
+h3 {
+    color:rgb(116, 216, 107);
+}
